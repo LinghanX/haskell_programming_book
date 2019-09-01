@@ -1,1 +1,1 @@
-# A repo for excercises of the book Haskell Programming
+# A repo for excercises and notes of the book Haskell Programming
